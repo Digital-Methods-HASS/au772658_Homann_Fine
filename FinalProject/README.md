@@ -1,0 +1,1 @@
+This is my Final Project about the gender distribution of Greek deities on ancient inscriptions. As the data file was to large to import download it at this link: https://drive.google.com/file/d/1EQ3v8UHxupOIG1q87MX32_h1FGBXB6g6/view?usp=drive_link  
